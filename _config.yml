@@ -1,6 +1,2 @@
-plugins:
-  - jekyll-redirect-from
 title: My amazing post
-redirect_from:
-  - /post/123456789/
-  - /post/123456789/my-amazing-post/
+redirect_to: http://www.github.com
