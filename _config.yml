@@ -1,2 +1,2 @@
-title: My amazing post
-redirect_to: http://www.github.com
+redirect: https://www.example.org
+layout: redirect
