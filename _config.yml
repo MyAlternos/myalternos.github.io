@@ -1,2 +1,4 @@
-redirect: https://www.example.org
 layout: redirect
+sitemap: false
+permalink: /
+redirect_to: https://alternos.fr
